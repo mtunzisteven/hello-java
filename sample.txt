@@ -1,2 +1,1 @@
-﻿I'm editing you from git because you need to be edited my file.
-I'm going to tell you more about your commits once we resolve the changes coming from git
+﻿I'm going to tell you more about your commits once we resolve the changes coming from git
